@@ -4,7 +4,7 @@
 
 - frontend solution sits in the `/frontend` folder, navigate there, run `npm i` and after `npm start`
 - backend solution can be found `/backend` folder. For database, I used MongoDB, probably you will need to install some
-  tools for that like the driver (Atlas) and some GUI (Compass) 
+  tools for that like the driver (Atlas) and some GUI (Compass). After, run `npm i` and after `npm start`
 
 MongoDB Atlas: https://www.mongodb.com/atlas/database
 
